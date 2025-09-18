@@ -1,0 +1,3 @@
+- AI som využil na vysvetlenie git workflow (init, add, commit, push).
+- Správnosť som si overil podľa videa z hodiny a oficiálnej dokumentácie Git.
+- Samostatne som spravil HTML, CSS a časť JS logiky.
