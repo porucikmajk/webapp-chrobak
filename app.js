@@ -8,6 +8,11 @@ document.getElementById("btn").addEventListener("click", () => {
         Tvoj prehliadač nepodporuje prehrávanie videa.
       </video>
     `;
+
     container.style.display = "block";
+
+    setTimeout(() => {
+      container.style.opacity = "1";
+    }, 50);
   }
 });
